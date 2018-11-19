@@ -7,6 +7,7 @@ intro_paragraph: |-
   # Heippa
 
   Uutta tekstiä tänne. Tämä on uusin uutinen.
+categories: misc
 ---
 ## Juttua
 
